@@ -1,0 +1,122 @@
+html {background: rgb(122, 122, 122);
+    padding: 1px;
+    background-image: url(https://i.imgur.com/ZD5EeRC.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+    
+    #menu {
+        background-color: rgba(21, 0, 24, 0.705);
+        padding: 10px;
+        border-spacing: 100px 10px;
+    }
+
+    #Mini {
+        border: 1px solid rgb(255, 255, 255);
+        color: white;
+        padding: 10px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    #Mop {
+        border: 1px solid rgb(255, 255, 255);
+        color: white;
+        padding: 10px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    #MBS {
+        border: 1px solid rgb(255, 255, 255);
+        color: white;
+        padding: 10px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    #Mend {
+        border: 1px solid rgb(255, 255, 255);
+        color: white;
+        padding: 10px;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    h1 {    
+        background-color: hsla(300, 100%, 6%, 0.400);
+        border-color: rgb(255, 217, 48);
+        border: 10px rgb(34, 192, 255);
+        font-size: 120% ;
+        display: block;
+        padding: 10px;
+        color: rgb(115, 227, 255);
+        font-family: Open Sans,sans-serif;
+        font-weight: 1000;
+        line-height: 200%;
+      }
+
+      body {    background-color: hsla(300, 100%, 6%, 0.400);
+        border-color: rgb(255, 217, 48);
+        border: 10px rgb(34, 192, 255);
+        font-size: 120% ;
+        display: block;
+        padding: 10px;
+        color: rgb(21, 0, 24);
+        font-family: Open Sans,sans-serif;
+        font-weight: 1000;
+        line-height: 200%;
+      }
+
+    #intro1 {
+        background-color: rgba(21, 24, 21, 0.418);
+        color: rgb(149, 255, 149);
+    }
+
+    #intro {
+        background-color: rgba(11, 0, 49, 0.541);
+        padding: 5%;
+        background-size: 950px;
+        border: 10px double;
+        border-color: white;
+        width: 80%;     }
+
+    #top {
+        border: 10px double rgb(255, 99, 99); margin: 5px;
+        padding: 10px;
+        background-color: rgba(44, 0, 73, 0.459);
+        color: rgb(255, 255, 255);
+    }
+
+    #Posicion {
+        padding-top: 25px;
+        padding-bottom: 25px;
+        padding-right: 25px;
+        padding-left: 25px;
+    }
+
+    #Openings{
+        padding-top: 25px;
+        padding-bottom: 25px;
+        padding-right: 25px;
+        padding-left: 25px;
+    }
+
+    #OST{
+        padding-top: 25px;
+        padding-bottom: 25px;
+        padding-right: 25px;
+        padding-left: 25px;
+    }
+
+    #Endings{
+        padding-top: 25px;
+        padding-bottom: 25px;
+        padding-right: 25px;
+        padding-left: 25px;
+    }
+    
+    th {
+        border: 1px black solid;
+        background: rgba(0, 0, 255, 0.363);
+    }
